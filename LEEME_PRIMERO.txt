@@ -1,0 +1,19 @@
+﻿PAQUETE LIMPIO LISTO PARA SUBIR O PASAR
+
+Contenido incluido:
+- app.py
+- templates/
+- static/
+- scripts .bat de inicio/detencion
+- archivos de empaquetado (spec/iss)
+- README.md y requirements.txt
+
+No incluye:
+- base de datos (*.db)
+- backups de db
+- .venv, build, dist, __pycache__
+- scripts de testeo
+
+Uso rapido:
+1) Si es para GitHub: abre esta carpeta como repositorio y haz commit/push.
+2) Si es para otro PC sin Python: ejecuta preparar_entrega_sin_python.bat.
